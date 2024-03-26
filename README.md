@@ -6,4 +6,5 @@
 [![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,php,js,ts,nodejs,jquery,react,express,figma,c,cpp,java,python,mysql,bash,powershell,git,github,blender)](https://skillicons.dev)
 <br>
  ## Please checkout my 👉 [Resume](https://gowtham2k2.github.io/My-Resume/)
-<img align="right" width=40% src="https://github-readme-stats.vercel.app/api/top-langs/?username=gowtham2k2&layout=pie" />
+ 
+<p align="center"><img width="500" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gowtham2k2&layout=pie" /></p>
