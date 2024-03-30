@@ -7,4 +7,4 @@
 <br>
  ## Please checkout my 👉 [Resume](https://gowtham2k2.github.io/My-Resume/)
  
-<p align="center"><img width="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gowtham2k2&layout=pie" /></p>
+<p align="right"><img width="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gowtham2k2&layout=pie" /></p>
