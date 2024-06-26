@@ -16,7 +16,7 @@ const Me = {
   name: "Gowtham G",
   pronouns: "He" | "him",
   code: [Javascript, Typescript, HTML, CSS, Python, Java],
-  askMeAbout: ["web dev", "tech", "app dev", "photography", "gaming"],
+  askMeAbout: ["web dev", "tech", "app dev", "photography", "gaming", "Anime"],
   techSkills: {
                  frontEnd:{
                             js:["react", "EJS"],
