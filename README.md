@@ -1,5 +1,5 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> there,  I'm Gowtham </h1> 
-<p align="center">I love creating new things ⚡</p>
+<p align="center">I love ❤️ open source 🌐⚡</p>
 <p align="center">Trying my best Turning imagination into reality 🚀</p>
 <div align="center">
 <a href="mailto:gowthamangowda7@gmail.com" target="_blank"><img alt="" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" style="vertical-align:center" /></a>
