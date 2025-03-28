@@ -34,7 +34,7 @@ const Me = {
 
 
 ### Languages and Tools I Love❤️
-[![My Skills](https://skillicons.dev/icons?i=jquery,ts,nodejs,react,express,postman,postgres,mysql,bash,powershell,git,github)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=jquery,ts,nodejs,react,express,dotnet,postman,postgres,mysql,bash,powershell,git,github)](https://skillicons.dev)
 <br>
 ## Please checkout my 👉 [Resume](https://gowtham2k2.github.io/My-Resume/)
 
